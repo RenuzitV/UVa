@@ -26,4 +26,5 @@ int main(){
         else printf("%d", (f.top()+b.top())/2);
         printf("\n");
     }
+    return 0;
 }
